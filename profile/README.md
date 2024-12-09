@@ -59,8 +59,12 @@
         <img src="https://img.shields.io/badge/NGINX-009639?style=  &logo=nginx&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=  &logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/AmazonRDS-232F3E?style=  &logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Github Actions-232F3E?style=  &logo=githubactions&logoColor=white"/>
-    </div>
+  </tr>
+    <tr>
+    <td align="center"><strong>Artificial Intelligence</strong></td>
+    <td>
+      RAG, openAI
+    </td>
   </tr>
   <tr>
     <td align="center"><strong>배포</strong></td>
